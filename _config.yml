@@ -1,0 +1,52 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: "5L's Technologies"
+description: 
+  Professional web designers and software engineers delivering tailored digital experiences
+postsTitle: Vitae phasellus
+postsDescription: Cras mattis ante fermentum, malesuada neque vitae, eleifend erat.
+                  Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas,
+                  purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus.
+                  Sed ac elementum arcu. Quisque placerat auctor laoreet.
+contactTitle: Start your digital journey today
+contactDescription: The team at 5L's Technologies is excited to assist you with your website, 
+                    mobile app, or software idea. Drop us a note and start the next step in 
+                    growing your business.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://fluellenhill.github.io" # the base hostname & protocol for your site
+copyright: "2020 5L's Technologies"
+
+#Collections
+collections:
+  services:
+    output: true
+    permalink: /services/:title/
+
+# Contact info
+email: info@5ls.tech
+twitter: 5LsTech
+facebook: 5LsTech
+linkedin: 5lstech
+# instagram: 5LTech
+#mailingAddress: Untitled Inc<br />1234 Somewhere Road Suite no. 2894<br />Nashville, TN 00000-0000
+#phone: 012-345-6789
+
+# Build settings
+# sass:
+#   style: compressed
+
+markdown: kramdown
+
+plugins:
+  # - jekyll-paginate-v2
+  # - jekyll-polyglot
+  - jekyll-seo-tag
+
+include: ['_pages']
