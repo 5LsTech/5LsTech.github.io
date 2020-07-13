@@ -2,7 +2,7 @@
 layout: page
 title: Software and Technical Consulting
 slug: software-tech-consulting
-image: images/black-and-white-blackboard-business-chalkboard-356043.jpg
+image: images/tech_consulting_resized_compressed.jpg
 style: wrapper spotlight style3
 id: 3
 tagline: Bringing the right mix of strategy, vision, and planning to new and existing software projects, 5L's means delivery success

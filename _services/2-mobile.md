@@ -2,7 +2,7 @@
 layout: page
 title: Mobile App Development
 slug: mobile-apps
-image: images/tilt-shift-lens-photo-of-black-and-white-chess-pieces-51055.jpg
+image: images/mobile_apps_resized_compressed.jpg
 style: wrapper alt spotlight style2
 id: 2
 tagline: Apps are well-suited for existing businesses and wholly new business ideas. Any idea can become the next Flappy Bird!

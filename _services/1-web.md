@@ -2,8 +2,9 @@
 layout: page
 title: Web Design
 slug: web-design
-image: images/notebook-beside-the-iphone-on-table-196644.jpg
+image: images/web_design_resized_compressed.jpg
 style: wrapper spotlight style1
+id: 1
 tagline: Expectations for businesses have changed. We build modern, mobile-ready websites that prime your business for growth and success.
 category: services
 ---
